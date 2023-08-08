@@ -1,0 +1,29 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+header {
+    background-color: plum;
+    margin: auto;
+    padding: 2rem;
+}
+
+h1 {
+    font-weight: 700;
+    text-align: center;
+}
+
+main {
+    background-color: rgb(219, 197, 219);
+    padding: 2rem;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 400;
+}
+
+.card-container {
+    display: flex;
+}
